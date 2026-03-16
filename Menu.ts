@@ -11,7 +11,7 @@ import { Controller } from './src/controller/Controller';
 
     controller.cadastrar(jogo1);
     controller.cadastrar(jogo2);
-    controller.cadastrar(jogo2);
+    controller.cadastrar(jogo3);
 
 export function main(){
 
