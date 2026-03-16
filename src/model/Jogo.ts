@@ -32,5 +32,7 @@ export class Jogo extends Produto{
 
         console.log(`Gênero: ${this._genero}`);
         console.log(`Plataforma: ${this._plataforma}`);
+        console.log("\n=================================\n")
     }
+
 }
